@@ -1,3 +1,4 @@
+//Link will make the page render one time without reloading
 import Link from "next/Link";
 
 const Index = () => (
